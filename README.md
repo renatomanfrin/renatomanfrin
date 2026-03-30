@@ -29,7 +29,8 @@ Meu nome é Renato Manfrin Benedicto, tenho 27 anos de idade e atualmente exerç
 ---
 
 <div>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=renatomanfrin&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" width="450em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=renatomanfrin&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" width="550em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=renatomanfrin&layout=compact&langs_count=7&show_icons=true&theme=dark&count_private=true&cache_seconds=86400"/>
 </div>
 
   <!--
