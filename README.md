@@ -6,7 +6,7 @@
 
 
 
-Meu nome é Renato Manfrin Benedicto, tenho 27 anos de idade e atualmente exerço a função de engenheiro eletricista realizando projetos de automação industrial. Sou entusiasta no mundo da tecnologia e gostei de programação desde o primeiro contato durante a universidade. Desde então, estudo soluções de problemas para situações do cotidiano utilizando principalmente python e C.
+Meu nome é Renato Manfrin Benedicto, tenho 28 anos de idade e sou formado em engenharia elétrica. Sou entusiasta no mundo da tecnologia e gostei de programação desde o primeiro contato durante a universidade. Desde então, estudo e desenvolvo softwares para soluções de problemas em situações do cotidiano utilizando principalmente python e C.
 
 
 ## Ferramentas e Tecnologias
